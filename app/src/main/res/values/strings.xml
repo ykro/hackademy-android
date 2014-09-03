@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APIs y Mapas</string>
+    <string name="title_list">Listado</string>
+    <string name="title_map">Mapa</string>
+    <string name="txt_hint_search">Ingresa la búsqueda</string>
+    <string name="btn_submit">Enviar</string>
+</resources>
